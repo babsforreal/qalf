@@ -1,0 +1,171 @@
+#div1
+{
+ display: inline;
+ text-align: center;
+ text-decoration: none;
+}
+#ul1
+{
+  color: white;
+  text-decoration: none;
+}
+li
+{
+    list-style-type: none;
+    display: inline;
+    width: 20%;
+    color: white;
+    text-decoration: none;
+ 
+}
+#nav1 li a
+{
+    text-decoration: none;
+    color: white;
+    border: solid 1px blue;
+    border-radius: 5px;
+
+}
+#nav1 li a:hover
+{
+    color: blue
+}
+body
+{
+    background-image: url(fond6.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+hr
+{
+  width: 40%;
+
+}
+#p1
+{
+    font-size: 44px;
+    color: white;
+    margin-top: 15%;
+
+    text-align: center;
+}
+#p2
+{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+
+}
+#esp
+{
+    margin-left: 43%;
+    margin-top: 8%;
+    width: 150px;
+    height: 50px;
+    background-color: white;
+}
+#contact
+{
+    color: white;
+}
+#formulaire
+{
+
+width:  50%;
+height: 100%;
+
+float: left;
+margin-left: 690px;
+margin-top: -200px;
+}
+#formulaire1
+{
+height: 50%;
+}
+
+#envoyer
+{
+    border-radius: solid 2px chocolate;
+}
+input, textarea {
+    border: solid blue;
+    border-radius: 5px ;
+    width: 50%;
+    height: 40%;
+}
+button
+{
+    color:white;
+    background-color: blue;
+    border: solid blue;
+    border-radius: 5px ;
+}
+#contact
+{
+    width: 40%;
+    height: 100%;
+    margin-top: 05%;
+  font-size: 19px;
+    float: left;
+
+}
+#propos
+{
+    color: white;
+    font-size: 20px;
+    width: 39%;
+    margin-left: 50%;
+    margin-top: 15%;
+}
+#perso1
+{
+    background-color:blue;
+    width: 20%;
+    height: 25%;
+    color: white;
+    margin-left: 09%;
+    margin-top:8%;
+    text-align: center;
+    position: relative;
+
+
+}
+#perso2
+{
+    width: 20%;
+    height: 25%;
+    color: white;
+margin-left: 40%;
+margin-top: -26%;
+text-align: center;
+position: relative;
+    
+    background-color: blue;
+}
+#perso3
+{
+    width: 20%;
+    height: 25%;
+    color: white;
+    margin-left: 70%;
+    margin-top: -26%;
+    text-align: center;
+    position: relative;
+    
+    background-color: blue;
+}
+#img1
+{
+    border: solid blanchedalmond;
+    border-radius: 199px ;
+
+}
+#photo
+{
+    width: 20%;
+    margin-top: -20%;
+    margin-left: 10%;
+    border: solid 2px;
+    border-radius: 199px ;
+}
